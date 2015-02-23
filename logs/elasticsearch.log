@@ -1,0 +1,11 @@
+[2015-02-23 11:12:45,510][INFO ][node                     ] [Redwing] version[1.4.4], pid[2458], build[c88f77f/2015-02-19T13:05:36Z]
+[2015-02-23 11:12:45,511][INFO ][node                     ] [Redwing] initializing ...
+[2015-02-23 11:12:45,549][INFO ][plugins                  ] [Redwing] loaded [], sites []
+[2015-02-23 11:12:58,247][INFO ][node                     ] [Redwing] initialized
+[2015-02-23 11:12:58,247][INFO ][node                     ] [Redwing] starting ...
+[2015-02-23 11:12:58,962][INFO ][transport                ] [Redwing] bound_address {inet[/0:0:0:0:0:0:0:0:9300]}, publish_address {inet[/192.168.0.4:9300]}
+[2015-02-23 11:12:59,335][INFO ][discovery                ] [Redwing] elasticsearch/bG02bFP_T4S4GNHsE8gZXg
+[2015-02-23 11:13:03,321][INFO ][cluster.service          ] [Redwing] new_master [Redwing][bG02bFP_T4S4GNHsE8gZXg][Rafael-Bergmanns-MacBook-Pro.local][inet[/192.168.0.4:9300]], reason: zen-disco-join (elected_as_master)
+[2015-02-23 11:13:03,428][INFO ][http                     ] [Redwing] bound_address {inet[/0:0:0:0:0:0:0:0:9200]}, publish_address {inet[/192.168.0.4:9200]}
+[2015-02-23 11:13:03,428][INFO ][node                     ] [Redwing] started
+[2015-02-23 11:13:03,573][INFO ][gateway                  ] [Redwing] recovered [0] indices into cluster_state
